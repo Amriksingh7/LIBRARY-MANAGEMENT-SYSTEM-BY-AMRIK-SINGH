@@ -1,0 +1,32 @@
+[
+    {
+        "title": "python",
+        "author": "Ricky",
+        "isbn": "8527",
+        "status": "available"
+    },
+    {
+        "title": "Html",
+        "author": "JAVACORE",
+        "isbn": "9811",
+        "status": "available"
+    },
+    {
+        "title": "& \"C:/Users/Amrik singh/AppData/Local/Programs/Python/Python313/python.exe\" \"d:/html/NEWLIB/LIBRARY MANAGEMENT SYSTEM.py\"",
+        "author": "& \"C:/Users/Amrik singh/AppData/Local/Programs/Python/Python313/python.exe\" \"d:/html/NEWLIB/LIBRARY MANAGEMENT SYSTEM.py\"",
+        "isbn": "9811",
+        "status": "available"
+    },
+    {
+        "title": "HOUSE",
+        "author": "LARRY",
+        "isbn": "9354",
+        "status": "Issued"
+    },
+    {
+        "title": "job",
+        "author": "jk",
+        "isbn": "852725",
+        "status": "available"
+    }
+]
